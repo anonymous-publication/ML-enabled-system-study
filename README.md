@@ -16,8 +16,8 @@ data: Contains the data ordered by filtering/ processing steps
 - **9b-dev_phases**: Projects evolution indicating development phases affected per commit.
 
 scripts: Python scripts used in this study.
-  **utilities**: Collection of functions required for the scripts
-  **data_acquisition**: Scripts required to obtain the data from GitHub
-  **filtering**: Scripts for filtering the data obtained from GitHub
-  **data_processing**: Generating further information required for analysis
-  **analysis**: Used to generate the results presented in the paper based on filtering and data_processing
+  - **utilities**: Collection of functions required for the scripts
+  - **data_acquisition**: Scripts required to obtain the data from GitHub
+  - **filtering**: Scripts for filtering the data obtained from GitHub
+  - **data_processing**: Generating further information required for analysis
+  - **analysis**: Used to generate the results presented in the paper based on filtering and data_processing
