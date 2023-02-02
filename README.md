@@ -1,4 +1,4 @@
-This repo contains the appendix/instruments for our paper, "Machine Learning Experiment Management Tools: A Mixed-Methods Empirical Study".
+This repo contains the appendix/instruments for our paper, "Identifying Experimentation in ML/DL Systems on GitHub: An Empirical Study and Mining Heuristics".
 
 The contents of each folders are listed below:
 
@@ -21,3 +21,13 @@ scripts: Python scripts used in this study.
   - **filtering**: Scripts for filtering the data obtained from GitHub
   - **data_processing**: Generating further information required for analysis
   - **analysis**: Used to generate the results presented in the paper based on filtering and data_processing
+
+
+The results from the paper can be reproduced by running the scripts in the following order:
+  - Obtaining the data from GitHub: Execute scripts/data_acquisition/01_get_dependants.py
+  - Filtering the data: Execute the Python scripts in scripts/filtering in the given order, except for the last one (12_filter_experiments.py)
+  - Additional processing required for results in RO2: Run scripts/data_processing/commit_stages.py
+  - Analysis:
+    - For RO1 (fig. 3&4): scripts/analysis/ml_stages.py
+    - For RO2 (fig. 5): scripts/analysis/commit_stats
+  - Results for RO3: Run scripts/filtering/12_filter_experiments.py
