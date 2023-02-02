@@ -2,7 +2,7 @@ This repo contains the appendix/instruments for our paper, "Identifying Experime
 
 The contents of each folders are listed below:
 
-data: Contains the data ordered by filtering/ processing steps
+**data**: Contains the data ordered by filtering/ processing steps
 - **1-dependents**: Names of GitHub projects that are dependent on SciKit-Learn and TensorFlow libraries.
 - **1a-dependents_queried**: Query results of GitHub repositories dependent on SciKit-Learn and TensorFlow libraries.
 - **2-forks_removed**: List of GitHub projects left after removing forks.
@@ -15,7 +15,7 @@ data: Contains the data ordered by filtering/ processing steps
 - **9a-dev-phases**: Count of ML development phases and their combinations found in the subjects.
 - **9b-dev_phases**: Projects evolution indicating development phases affected per commit.
 
-scripts: Python scripts used in this study.
+**scripts**: Python scripts used in this study.
   - **utilities**: Collection of functions required for the scripts
   - **data_acquisition**: Scripts required to obtain the data from GitHub
   - **filtering**: Scripts for filtering the data obtained from GitHub
