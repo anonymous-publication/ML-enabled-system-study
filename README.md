@@ -12,8 +12,6 @@ The contents of each folders are listed below:
 - **4a-library_calls_filtered**: List of projects with relevant library calls.
 - **5-attributes**: List of projects along with the following attributes: number of contributors, branches, pull requests, tags, number of releases, issues, files, and their ML development phases.
 - **6-experiments**: Results after applying the different heuristics to filter out experiments
-- **9a-dev-phases**: Count of ML development phases and their combinations found in the subjects.
-- **9b-dev_phases**: Projects evolution indicating development phases affected per commit.
 
 **scripts**: Python scripts used in this study.
   - **utilities**: Collection of functions required for the scripts
