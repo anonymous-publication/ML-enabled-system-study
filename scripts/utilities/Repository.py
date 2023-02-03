@@ -134,7 +134,7 @@ class Repository:
         """Downloads and extracts a tar compressed repository from an sftp server"""
 
         #Adapt this to user-specific environment
-        host = 'se-fs1.ig09s.ruhr-uni-bochum.de'
+        host = ''
         port = 9022
 
         transport = paramiko.Transport((host, port))
@@ -186,7 +186,8 @@ class Repository:
     def download(self, repo_name):
         """Downloads an uncompressed repository from an sftp server"""
 
-        host = 'se-fs1.ig09s.ruhr-uni-bochum.de'
+        #Specify host
+        host = ''
         port = 9022
 
         with open('fileserver_username.txt') as f:

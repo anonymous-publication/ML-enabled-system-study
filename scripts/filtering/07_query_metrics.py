@@ -5,13 +5,13 @@ import tqdm
 from functools import partial
 import copy
 
-from utilities import retrieve_metric
+from scripts.utilities.utilities import retrieve_metric
 
 """Obtain the numnber of contributors/branches/pull requests/tags/releases for each repository using the GitHub REST api."""
 
 # Adapt these filepaths for each attribute added
-input_filepath = '../4a-library_calls_filtered/tensorflow.csv'
-output_filepath = '../5-attributes/tensorflow.csv'
+input_filepath = 'data/4a-library_calls_filtered/tensorflow.csv'
+output_filepath = 'data/5-attributes/tensorflow.csv'
 
 username = open("username.txt", "r").readline()[:-1]
 token = open("token.txt", "r").readline()[:-1]

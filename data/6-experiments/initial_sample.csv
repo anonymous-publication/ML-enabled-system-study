@@ -1,0 +1,231 @@
+URL,Type,Subtype,Notes,Properties,,,Types/ Subtypes,,,,,,,
+https://github.com/Image-Py/imagepy,"Library, Framework",Framework,,"* 710 commits, 1.2k stars, 82 watching, 313 forks
+* Python - 99.8%, Other 0.2%
+* 18 contributors
+* Readme rating: OK",,Unknown,Experiment,Library,Education,System,Unknown,,No. of identified Experiments,41
+https://github.com/shahzaib-ch/open-anomaly-detection-benchmark,Tool,,Tool for anomaly detection,"* 298 commits, 1 watching, 0 forks and stars
+* 1 contributor
+* * 100 python
+* Readme ok",,,Research,Framework,Tutorial,,,,,
+https://github.com/jmculnan/multimodal_data_preprocessing,"Library, Toolset",Toolset,,"* 95 commits, 2 stats, 0 fork, 2 watching
+* Python 100%
+* 1 contributor
+* Readme: ok",,,Development,Toolset,Assignment,,,,Count of all manually identified ML experiments = 329,
+https://github.com/dimazest/fowler.corpora,"Library, Toolset",Toolset,,"* 495 commits, 1 watching, 2 stars, 2 forks, 4 tags, 
+* Python - 66%, HTML, 33%
+* 1 Contributor 
+* Readme: ok",,,,Library,,,,,,
+https://github.com/Ironhack-Data-Madrid-Agosto-2021/classroom-materials,"Education, Tutorial",Tutorial,,"*178 commits, 12 forks, 0 watching, 1 star
+* 3 contributors
+* 99% jupyter notebook
+* readme: ok",,,,,,,,,,
+https://github.com/BlueHope1987/StudyBase,"Education, Tutorial",Other,,"* 503 commits, 1 watching, 0 forks, 0 stars
+* Python 53%, c++ 42%...
+* 1 contributor
+* Readme: Poor",,,,,,,,,,
+https://github.com/abnormal-distribution/AC295_abnormal-distribution,"Education, Assignment",Assignment,Multiple assignment solutions from a class,"* 161 commits, 2 watching, 1 fork and star.
+* 4 contributors
+* Jupyter notebook 99%
+* Readme: poor",,,,,,,,,,
+https://github.com/ewancarr/NEWS2-COVID-19,"Experiment, Research",Research,"Developed as part of a research paper, but the software seems to be the main subject of the research.","* 57 commits, 5 stars, 4 watching, 4 forks
+* 2 releases
+* 3 contributors
+* Python 100%
+* Readme: OK",,,Exclusion criteria,,,,,,,
+https://github.com/samet-akcay/ganomaly,"Experiment, Library, Research",Research,"Provides code for anomaly detection, now part of another library","* 76 commits, 216 forks, 26 watching, 761 stars,
+* 4 contributors
+* 98% python
+* Readme: OK",,,"- Exclude projects with other file types beyond Python & Jupyter notebooks file types.
+
+- Exclude projects with no readme file or less than (3) sentences (Less than 300 characters)",,,,,,,
+https://github.com/Lab41/Circulo,"Library, Framework",Framework,Performs statistical analysis on graph partitioning,"* 388 commits, 34 watching, fork 39, star 78,
+* 3 Releases
+* contributors 5
+* python 85%, C 8%, R 3%...
+* Readme: OK",,,"* exclude projects with the following words in readme - ""tutorial"", ""assignment"", ""course"", ""lecture""",Non-English language?,,,,,,
+https://github.com/kk17/supermarket_detection,Experiment,,,,,,"includes ""experiments""",,,,,,,
+https://github.com/swufung/WassersteinBasedProjections,"Experiment,  Research",,,,,,,,,,,,,
+https://github.com/juroberttyb/chatbot,,,404,,,,,,,,,,,
+https://github.com/gkswamy98/adversarial_rl,Experiment,,,,,,,,,,,,,
+https://github.com/BlancaCalvo/Claim-Verification-FakeNews,"Experiment, Thesis, Research",,,,,,"- Consider only projects with only 1 or 2  contributors
+- Projects with less than (200) commits (Get rid of automated commits?)",,,,,,,
+https://github.com/siddinc/brain_password,,,No readme,,,,,,,,,,,
+https://github.com/callac/cnn_captcha,"Experiment, Education",,,,,,,NB: Number of Git branches?,,,,,,
+https://github.com/sbrown97/machine-learning,"Education, Tutorial",Tutorial,,,,,,,,,,,,
+https://github.com/MartinNowak96/Neuromorphic-Data-Processing,Experiment,,,,,,,,,,,,,
+https://github.com/prijatelj/handwriting_recognition_with_novelty,"Experiment, Research",,,,,,,,,,,,,
+https://github.com/jinu0124/Zootopia,Education,,,,,,,,,,,,,
+https://github.com/anapt/3D-facial-reconstruction,"Experiment, Research, Thesis",,,,,,,,,,,,,
+https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat,"Education, Tutorial",,,,,,,,,,,,,
+https://github.com/attilanagy234/neural-punctuator,"Experiment, Research",,,,,,,,,,,,,
+https://github.com/igorbeduin/tg2_COVIDNet,Experiment,,,,,,,,,,,,,
+https://github.com/AnityaGan9urde/NEWS-Headline-Classifier-project,System,,,,,,,,,,,,,
+https://github.com/XuXingyu-98/Approximate_Inference,Education,,,,,,,,,,,,,
+https://github.com/pauldes/nba-mvp-prediction,Experiment,,,,,,,,,,,,,
+https://github.com/manujosephv/pytorch_tabular,Library,,,,,,,,,,,,,
+https://github.com/jmvines20/geron,"Education, Tutorial",Tutorial,,,,,,,,,,,,
+https://github.com/ctlearn-project/ctlearn,Library,,,,,,,,,,,,,
+https://github.com/niksirbi/pcarpet,Library,,,,,,,,,,,,,
+https://github.com/Asirg/amlpp,Experiment,,Library in development,,,,,,,,,,,
+https://github.com/HUST-EIC-AI-LAB/UCADI,"Research, Framework",,"Part of a research paper, might be intended for practical use",,,,,,,,,,,
+https://github.com/ai4eu/tutorials,"Education, Tutorial",Tutorial,,,,,,,,,,,,
+https://github.com/sara-nl/Covid19-HPML,"Experiment, Research",,"Part of a research paper, states that it does not contain deployment-ready models",,,,,,,,,,,
+https://github.com/georgeslabreche/opssat-smartcam,"Experiment, Research",,,,,,,,,,,,,
+https://github.com/Italo-Pereira-Guimaraes/Machine-Learning-Engineer-Nanodegree,Education,,,,,,,,,,,,,
+https://github.com/ankitbansal811/natural-language-processing-hse,Education,,,,,,,,,,,,,
+https://github.com/sameh-rm/project-4,Education,,,,,,,,,,,,,
+https://github.com/hello2mao/Learn-MachineLearning,Education,,,,,,,,,,,,,
+https://github.com/Vikas1667/ML_Projects,Experiment,,"Collection of small samples, explorative",,,,,,,,,,,
+https://github.com/AlekseySidorovDS/test1,Unknown,,No readme,,,,,,,,,,,
+https://github.com/1024xx4/statistics_udemy,Education,,,,,,,,,,,,,
+https://github.com/Mohamed209/Train-CRNN,Experiment,,Might be intended as something of a library,,,,,,,,,,,
+https://github.com/jkerrigan/photon_sphere,Experiment,,,,,,,,,,,,,
+https://github.com/thoughtworks/antiviral-peptide-predictions-using-gan,Experiment,,,,,,,,,,,,,
+https://github.com/Edudeiko/dj_helper_search_api,System,,IOS app,,,,,,,,,,,
+https://github.com/JinYang88/TS-anomaly,Experiment,,No readme,,,,,,,,,,,
+https://github.com/jchwenger/Learning,"Education, Tutorial, experiment",,,,,,,,,,,,,
+https://github.com/huading/Python,"N/A, Unknown",Collection of algorithms in Python,,,,,,,,,,,,
+https://github.com/qiuchili/qnn_torch,"Experiment, Research, Publication",,,,,,,,,,,,,
+https://github.com/lzw-all-in/CS224n_assignments-use-Pytorch,"Education, Experiments, assignment",Course work,,,,,,,,,,,,
+https://github.com/bconstanzo/phantom,System,,,,,,,,,,,,,
+https://github.com/mae-creative-pc/cpac_course_2021,"Education,  Experiments","Course Labs, Deep learning experiments",,,,,,,,,,,,
+https://github.com/h4zzkR/delOS-core,System,,,,,,,,,,,,,
+https://github.com/MathOnco/Mistic,Unknown,* Data analysis,,,,,,,,,,,,
+https://github.com/Jack-lx-jiang/zjb-vqa,Experiment,Implementation for a video recognition contest,,,,,,,,,,,,
+https://github.com/hkraemer/PECUZAL_python,Unknown,,,,,,,,,,,,,
+https://github.com/minithb/CarND-Capstone,"Education, Assignment",,,,,,,,,,,,,
+https://github.com/JannisHoch/copro,Toolset,* CLI tool for training models,,,,,,,,,,,,
+https://github.com/ratschlab/scim,Experiment,,,,,,,,,,,,,
+https://github.com/bugra/putting-tensorflow-models-to-production,Tutorial ,* Tutorial on model serving,,,,,,,,,,,,
+https://github.com/mbatchkarov/dc_evaluation,Experiment,* Document classification,,,,,,,,,,,,
+https://github.com/bwozniakhome/MLNano,Education,* Udacity's Machine Learning curriculum,,,,,,,,,,,,
+https://github.com/max-lutz/floodwater_competition,Experiment,,,,,,,,,,,,,
+https://github.com/mfmachado/adar,Tutorial,* data analysis,,,,,,,,,,,,
+https://github.com/ThordurPall/fish_classifier,"Experiment, Tutorial",,,,,,,,,,,,,
+https://github.com/Robert-F-Mulligan/fantasy-football,System,,,,,,,,,,,,,
+https://github.com/iamvon/viBlind,System,Mobile app with image recognition,,,,,,,,,,,,
+https://github.com/modaresimr/UnifiedAR,Experiment,,,,,,,,,,,,,
+https://github.com/Aamer98/LibFewShot_NoAffine,"Library, research, publication",,,,,,,,,,,,,
+https://github.com/cybertraining-dsc/fa18-523-57,"Education, Assignment, Experiment ",,,,,,,,,,,,,
+https://github.com/GyubokLee/cs224d,"Education, Assignment, Experiment",*  Assignment on Deep Learning for Natural Language Processing,,,,,,,,,,,,
+https://github.com/matejklemen/slovene-coreference-resolution,"Experiment, Publication ",,,,,,,,,,,,,
+https://github.com/abrahamnunes/fitr,"Toolset, Library",A Toolbox for Computational Psychiatry Research,,,,,,,,,,,,
+https://github.com/numeristical/introspective,Toolset,"Tools: A Spline-based Probability Calibration, and Model Interpretability tool",,,,,,,,,,,,
+https://github.com/podondra/lampy,"Education, Publication, System",* Anomaly detection system,,,,,,,,,,,,
+https://github.com/seasonsOfTheSun/UMAPanalysis,Experiment,,,"* 88 commits, 0 stars, 1 watching, 1 fork
+* Python / Makefile
+* 1 contributor
+* Readme file rating: Ok",,,,,,,,,,
+https://github.com/koktf23/algorithms_python,"N/A, unknown",Collection of algorithms implemented in Python langauge for education purposes.,,"* 1170 commits, 0 starts, 1 watching, 0 forks
+* 295 contributors
+* Jupyter Notebook /Python
+* Readme: Basic
+",,,,,,,,,,
+https://github.com/dg1an3/zebrastack,Experiment,,,"* 265 commits, 0 stars, 2 watching, 0 forks
+* Jupyter Notebook
+* 1 Contributor
+* Readme: Poor",,,,,,,,,,
+https://github.com/konst8888/ml-utils,Experiment,,,"* 61 commits, 0 stars, 2 watching, 0 forks
+* Jupyter Notebook/ Python
+* 1 contributor
+* Readme: None
+",,,,,,,,,,
+https://github.com/jpcsmith/wf-tools,System ,"*Tools for performing website fingerprinting classification as well as fetching web-pages.
+* A tool using ML model",,"* 249 commits, 4 stars, 3 watching, 0 forks
+* Python
+* 1 contributor
+* Readme: OK
+",,,,,,,,,,
+https://github.com/roynvn/klasifikasi-komentar-youtube," System
+ 
+-Non-English / Poor documentation",* Classifying youtube comment?,,"* 71 commits, 0 stars, 1 watching, 0 forks
+* Python/Shell
+* 1 contributor
+* Readme rating: Poor (Non-English)",,,,,,,,,,
+https://github.com/krantirk/BERT-Pretrained-model,"Education, Experiment","* ML code and links to pre-trained models.
+* ML training code / Experiments",,"* 111 commits, 1 star, 34 watching, 0 forks
+* 27 contributors
+* Python/J. Notebook
+* Readme: OK",,,,,,,,,,
+https://github.com/lnugraha/regression-analysis,"Education, Tutorial","*  topics in regression analysis, such as linear regression, logistic regression, etc",,"* 87 commits, 0 stars, 2 watching, 0 forks
+* 1 contributor
+* Python
+* ",,,,,,,,,,
+https://github.com/tmcphee/Hotel-Review-Analyzer,System,* Sentiment analysis application for hotel reviews,,"* 108 commits, 0 stars, 2 watching, 1 fork, 
+* 4 contributors
+* Python/HTML
+* Readme rating: OK",,,,,,,,,,
+https://github.com/rnoyelle/face_classifier,System,* Face/emotion/gender classification system,,"* 207 commits, 0 stars, 2 watching, 1 fork
+* 1 Release
+* Jupyter Notebook, Python
+* 2 Contributors
+* Readme: OK",,,,,,,,,,
+https://github.com/vishal-kvn/tf_serving_object_detection,Tutorial,* Tutorial on ML model serving using TF-serving,,"* 71 commits, 0 stars, 2 watching, 0 forks
+* Python
+* 2 contributors
+* Readme rating: OK",,,,,,,,,,
+https://github.com/BishopFox/eyeballer,System,"* A system that detects vulnerability in webpages by classifying screenshot. 
+* Convolutional neural network for analyzing pentest screenshots",,"* 137 commits, 621 stars, 27 watching, 103 forks
+*  Python/HTML/Shell
+* 2 releases 
+* 5 contributors
+* Readme rating: OK",,,,,,,,,,
+https://github.com/juugii/FastProject,Tool,"* (Forked project) A 2-D visualization tool for single-cell data.
+* A Data-focused tool",,"* 417 commits, 0 stars, 0 watching, 0 forks
+* 2 contributors
+* Python /JS/HTML/Shell
+* Readme: Basic",,,,,,,,,,
+https://github.com/alepulver/tp-final-incc,Experiment,Supervised learning classification,,"* 70 commits, 0 stars, 3 watching, 0 forks
+* 1 contributor
+* Python/Shell
+* Readme rating: OK",,,,,,,,,,
+https://github.com/david-knigge/qa-anaphoric,"Education, Experiment","* Implementation of a new NLP-related method.
+* Research/Publication ",,"* 54 commits, 1 star, 0 watching, 0 forks
+* 3 contributors
+* Python
+* Readme rating: Just OK.",,,,,,,,,,
+https://github.com/AmishaAgrawal20/ML-Project,"Experiment
+
+- No documentation ",,,"* 131 commits, 0 stars, 1 watching, 0 forks
+* J. Notebook, Python, Shell
+* 4 contributors
+* Readme rating: Poor (None)",,,,,,,,,,
+https://github.com/weikhor/deep-learning-nanodegree-foundation,"Education, tutorial","* Tutorials
+* A Repository for Udacity's  Deep Learning program
+* Collection of tutorials",,"* 405 commits, 0 stars, 2 watching, 0 forks
+* 64 contributors
+* Python/Jupyter notebooks",,,,,,,,,,
+https://github.com/rickyHong/kubeflow-seldon-example-repl,"Education, tutorial",* Tutorial on classic handwritten digital classification task using tools for orchestrating training/deployment,,"* 105 commits, 0 stats, 2 watching, 0 forks
+* Jupyter / Python / Shell / R / Dockerfile 
+* 1 contributor
+* Readme file rating: OK",,,,,,,,,,
+https://github.com/dsenanayake95/violence_detection,"Education, Assignment, System",* A school project (A web-based system) integrating models stored on GCP cloud to predict violence from video/images,,"* 88 commits, 0 stars, 1 watching, 0 forks
+* Jupyter Notebook
+* 3 contributors
+* Readme file rating: Not so OK. (Using a template that wasn't updated?)",,,,,,,,,,
+https://github.com/cverluise/PatCit,System,A data-related tool that integrates AI for intelligent classification,"*(Tool)BigQuery Tool for exploring patent datasets. 
+*(System)Uses ML model to organize corpus into categories","* 421 commits, 83 stars, 11 forks, 18 watching
+* 3 Releases
+* 3 contributors
+* Readme file rating: OK
+* Python / Jupyter Notebook",,,,,,,,,,
+https://github.com/vanvalenlab/intro-to-deepcell,"Tutorial, Tool, Education","* A Data & Model management tool
+* Provides an system that allows users to segment custom data using pretrained models","* Data annotation & management
+* Model development/deployement/inference","* 104 commits, 99 stars, 19 forks, 10 watching
+* Jupyter Notebook
+* 8 contributors
+* Readme file rating: OK",,,,,,,,,,
+https://github.com/APRader/pac-smt-arithmetic,Education,ML Experiment for Publication/Research,,"* 69 commits, 0 starts, 1 fork, 2 watching
+* Python
+* 1 contributor
+* Readme file rating: OK",,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Systems,14,,,,,,,,,,,,,
+Experiments,41,,,,,,,,,,,,,
+Library,10,,,,,,,,,,,,,
+Toolset,8,,,,,,,,,,,,,
+Education,31,,,,,,,,,,,,,
+Tutorials,15,,,,,,,,,,,,,
+Research,12,,,,,,,,,,,,,

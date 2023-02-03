@@ -8,7 +8,7 @@ from functools import partial
 from datetime import datetime
 import shutil
 
-from Repository import Repository
+from scripts.utilities.Repository import Repository
 
 """
 Filters out repositories that make no calls to scikit-learn/ tensorflow or cannot be cloned for analysis.
@@ -19,8 +19,8 @@ n_processes = 6
 n_chunks = 10
 local_path_main = '/mnt/volume1/mlexpmining/cloned_repos'
 library = 'tensorflow'
-input_filepath = f'../3-number_commits_filtered/{library}_dependents_14_02_2022.csv'
-output_filepath = f'../4a-library_calls_filtered/{library}_14_02_2022.csv'
+input_filepath = f'data/3-number_commits_filtered/{library}_dependents_14_02_2022.csv'
+output_filepath = f'data/4a-library_calls_filtered/{library}_14_02_2022.csv'
 
 # Storing information about skipped and excluded repos
 excluded = multiprocessing.Value('i', 0)
@@ -102,7 +102,7 @@ def parallel_run(data_input=None):
     #     stages_to_sklearn = json.load(f)
 
     # Creating dictionaries mapping api calls to ml workflow stages and vice versa
-    df = pd.read_csv('../4-api-dictionary/API-dictionary.csv',
+    df = pd.read_csv('API-dictionary.csv',
                      usecols=[0, 1, 2, 3, 4, 5])
     stages_to_functions = {}
     functions_to_stages = {}

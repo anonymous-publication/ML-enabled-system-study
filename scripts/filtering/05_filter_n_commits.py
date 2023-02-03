@@ -8,10 +8,10 @@ library = "scikit-learn"
 commit_threshold = 50
 
 repo_info_df = pd.read_csv(
-    f"../2-forks_removed/{library}_dependents_14_02_2022.csv")
+    f"data/2-forks_removed/{library}_dependents_14_02_2022.csv")
 repo_info_df['n_commits'] = -1
 commits_df = pd.read_csv(
-    f"../3a-number_commits_queried/{library}_dependents.csv")
+    f"data/3a-number_commits_queried/{library}_dependents.csv")
 
 max_idx = len(commits_df)
 for index, row in commits_df.iterrows():

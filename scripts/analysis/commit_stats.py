@@ -5,7 +5,7 @@ from datetime import datetime
 """Analyze the results from commit_stages"""
 
 # To be updated with the final results
-RESULTS_DIR = "../commit_stages"
+RESULTS_DIR = "data/commit_stages"
 stages = ['Acquisition', 'Preparation', 'Modeling',
           'Training', 'Evaluation', 'Prediction']
 

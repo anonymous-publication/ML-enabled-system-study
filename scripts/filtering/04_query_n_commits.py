@@ -1,4 +1,4 @@
-from utilities import retrieve_n_commits
+from scripts.utilities.utilities import retrieve_n_commits
 import pandas as pd
 import shutil
 """

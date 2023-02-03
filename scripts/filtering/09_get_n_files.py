@@ -6,8 +6,8 @@ import tqdm
 """Get the number of files for each repository and add results to the .csv file."""
 
 # Adapt these filepaths depending on the storage location of your interim results
-input_filepath = '../5-attributes/tensorflow.csv'
-output_filepath = '../5-attributes/tensorflow.csv'
+input_filepath = 'data/5-attributes/tensorflow.csv'
+output_filepath = 'data/5-attributes/tensorflow.csv'
 local_path_main = '/mnt/volume1/mlexpmining/cloned_repos'
 n_processes = 4
 
@@ -62,13 +62,14 @@ def parallel_run():
     # Load data
     data_input = pd.read_csv(input_filepath)
     columns = data_input.columns.to_list()+['n_files']
-    data_output = pd.DataFrame(columns=columns)
+    results_list=[]
     pool = multiprocessing.Pool(processes=n_processes)
     for i in tqdm.tqdm(pool.imap_unordered(get_n_files, data_input.iterrows()), total=len(data_input)):
         if i is not None:
-            data_output = data_output.append(i)
+            results_list.append(i)
 
     # Save results
+    data_output = pd.DataFrame(results_list)
     print(
         f'Skipped {len(data_input)-len(data_output)} of {len(data_input)} entries')
     print(data_output)

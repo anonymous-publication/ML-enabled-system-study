@@ -4,15 +4,15 @@ import multiprocessing
 import tqdm
 from functools import partial
 
-from utilities.Repository import Repository
+from scripts.utilities.Repository import Repository
 
 """Add the number of ml files for each project to the summary file."""
 
 CLONED_REPO_DIR = '/mnt/volume1/mlexpmining/cloned_repos'
-summary_merged_path = '../results_test/13-local_path/merged.csv'
-output_path = '../results_test/14-ml_files/tf_skl_merged.csv'
+summary_merged_path = 'data/5-attributes/tf_skl_merged.csv'
+output_path = 'data/5-attributes/tf_skl_merged.csv'
 
-commit_stages_results = '../results_test/commit_stages'
+commit_stages_results = 'data/commit_stages'
 N_PROCESSES = 4
 
 

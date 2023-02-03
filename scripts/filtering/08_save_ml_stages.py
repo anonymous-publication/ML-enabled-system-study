@@ -5,8 +5,8 @@ from functools import partial
 import pandas as pd
 from datetime import datetime
 
-from Repository import Repository
-from utilities import load_api_dict
+from scripts.utilities.Repository import Repository
+from scripts.utilities.utilities import load_api_dict
 
 """
 Obtains the implemented ml stages for each repository and adds this information to the summary file.
@@ -15,8 +15,8 @@ Obtains the implemented ml stages for each repository and adds this information 
 n_processes = 4
 
 # Adapt these filepaths depending on the storage location of your interim results
-input_filepath = '../5-attributes/tensorflow.csv'
-output_filepath = '../5-attributes/tensorflow.csv'
+input_filepath = 'data/5-attributes/tensorflow.csv'
+output_filepath = 'data/5-attributes/tensorflow.csv'
 local_path_main = '/mnt/volume1/mlexpmining/cloned_repos'
 
 # Storing information about skipped repos

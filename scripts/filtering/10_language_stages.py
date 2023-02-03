@@ -9,8 +9,8 @@ Filters out repos with empty ml_stages or not Python as primary language.
 
 library = 'tensorflow'
 local_path_main = '/mnt/volume1/mlexpmining/cloned_repos'
-input_path = f'../results_test/12-n_files/{library}.csv'
-output_path = f'../results_test/13-local_path/{library}.csv'
+input_path = f'data/5-attributes/{library}.csv'
+output_path = f'data/5-attributes/{library}.csv'
 
 not_stored = multiprocessing.Value('i', 0)
 no_stages = multiprocessing.Value('i', 0)

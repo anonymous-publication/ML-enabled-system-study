@@ -1,4 +1,4 @@
-from utilities import get_list_from_file, query_repo, list_to_str
+from scripts.utilities.utilities import get_list_from_file, query_repo, list_to_str
 import pandas as pd
 import shutil
 """

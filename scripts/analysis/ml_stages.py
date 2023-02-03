@@ -3,13 +3,13 @@ import ast
 import pprint
 
 
-ANALYSIS_DIR = "results_test/analysis_out"
-RESULTS_DIR="results_test/15-n_scripts/tf_skl_merged.csv"
+ANALYSIS_DIR = "data/"
+RESULTS_DIR="data/5-attributes/tf_skl_merged.csv"
 
 def merge_tf_sk_projects():
-    sk_df = pd.read_csv("results_test/12-n_files/scikit_learn.csv")
+    sk_df = pd.read_csv("data/5-attributes/scikit_learn.csv")
     print(sk_df.shape)
-    tf_df = pd.read_csv("results_test/12-n_files/tensorflow.csv")
+    tf_df = pd.read_csv("data/5-attributes/tensorflow.csv")
     print(tf_df.shape)
 
     merged_df = pd.concat([sk_df, tf_df])

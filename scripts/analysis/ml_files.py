@@ -5,7 +5,7 @@ import math
 
 """Analyze the share of ml files per project"""
 
-results_path='../results_test/15-n_scripts/tf_skl_merged.csv'
+results_path='data/5-attributes/tf_skl_merged.csv'
 
 def analyze_ml_files(bin_by,bins):
     #Load data

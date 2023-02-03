@@ -6,8 +6,8 @@ import multiprocessing
 import tqdm
 from functools import partial
 
-from Repository import Repository
-from utilities import load_api_dict
+from scripts.utilities.Repository import Repository
+from scripts.utilities.utilities import load_api_dict
 
 """
 Determine which ml stages were modified in each commit.

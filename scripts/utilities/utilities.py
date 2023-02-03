@@ -10,7 +10,7 @@ import os
 import re
 from treelib import Tree,Node
 
-from utilities.Repository import Repository
+from scripts.utilities.Repository import Repository
 
 
 def get_repos(search_params: dict, auth_params, n_repos=None):

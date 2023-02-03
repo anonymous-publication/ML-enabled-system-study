@@ -13,8 +13,8 @@ Exclusion criteria:
     - No readme file or readme file less than 300 characters
 """
 
-input_filepath = '../results_test/15-n_scripts/tf_skl_merged.csv'
-output_filepath = '../results_test/16-experiments_01.csv'
+input_filepath = 'data/5-attributes/tf_skl_merged.csv'
+output_filepath = 'data/6-experiments/he1.csv'
 local_path_main = '/mnt/volume1/mlexpmining/cloned_repos'
 folder_stats_dir = '/mnt/volume1/mlexpmining/folder_stats'
 n_processes = 4
