@@ -25,8 +25,8 @@ The contents of each folders are listed below:
 The results from the paper can be reproduced by running the scripts in the following order:
   - Obtaining the data from GitHub: Execute scripts/data_acquisition/01_get_dependants.py
   - Filtering the data: Execute the Python scripts in scripts/filtering in the given order, except for the last one (12_filter_experiments.py)
-  - Additional processing required for results in RO2: Run scripts/data_processing/commit_stages.py
+  - Additional processing required for results to RO2: Run scripts/data_processing/commit_stages.py
   - Analysis:
-    - For RO1 (fig. 3&4): scripts/analysis/ml_stages.py
+    - For RO1 (fig. 3&4, Table I&II): scripts/analysis/ml_stages.py
     - For RO2 (fig. 5): scripts/analysis/commit_stats
   - Results for RO3: Run scripts/filtering/12_filter_experiments.py
