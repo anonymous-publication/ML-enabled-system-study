@@ -74,6 +74,6 @@ def wf_stage_combination_analysis():
 
 if __name__ == "__main__":
     #merge_tf_sk_projects()
-    #get_stats()
+    get_stats()
     #wf_stage_analysis()
     wf_stage_combination_analysis()
