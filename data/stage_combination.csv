@@ -1,0 +1,51 @@
+stages,count
+"['Acquisition', 'Preparation', 'Modeling', 'Training', 'Evaluation', 'Prediction']",17333
+"['Acquisition', 'Preparation', 'Modeling', 'Training', 'Prediction']",4196
+"['Acquisition', 'Preparation', 'Modeling', 'Training', 'Evaluation']",1718
+"['Acquisition', 'Preparation', 'Training', 'Prediction']",815
+"['Acquisition', 'Preparation', 'Training', 'Evaluation', 'Prediction']",804
+"['Acquisition', 'Preparation', 'Modeling', 'Training']",774
+"['Acquisition', 'Preparation', 'Modeling', 'Prediction']",722
+"['Acquisition', 'Preparation', 'Prediction']",714
+"['Acquisition', 'Preparation', 'Modeling', 'Evaluation', 'Prediction']",619
+"['Acquisition', 'Preparation', 'Training']",435
+"['Acquisition', 'Preparation']",424
+"['Acquisition', 'Preparation', 'Modeling']",424
+"['Acquisition', 'Preparation', 'Modeling', 'Evaluation']",340
+"['Preparation', 'Modeling', 'Training', 'Prediction']",267
+"['Acquisition', 'Preparation', 'Training', 'Evaluation']",265
+"['Acquisition', 'Preparation', 'Evaluation']",224
+"['Acquisition', 'Preparation', 'Evaluation', 'Prediction']",209
+"['Preparation', 'Modeling', 'Training', 'Evaluation', 'Prediction']",200
+"['Preparation', 'Training', 'Prediction']",98
+"['Preparation', 'Training']",64
+"['Preparation', 'Modeling', 'Training']",55
+['Preparation'],54
+"['Preparation', 'Modeling', 'Evaluation']",46
+"['Preparation', 'Training', 'Evaluation', 'Prediction']",43
+"['Preparation', 'Modeling', 'Training', 'Evaluation']",36
+"['Preparation', 'Prediction']",36
+"['Preparation', 'Modeling']",29
+"['Preparation', 'Modeling', 'Prediction']",16
+"['Preparation', 'Evaluation']",15
+"['Preparation', 'Evaluation', 'Prediction']",12
+"['Preparation', 'Modeling', 'Evaluation', 'Prediction']",12
+"['Acquisition', 'Prediction']",12
+"['Preparation', 'Training', 'Evaluation']",9
+"['Acquisition', 'Training', 'Prediction']",8
+['Acquisition'],7
+"['Acquisition', 'Modeling', 'Training', 'Prediction']",5
+['Prediction'],4
+"['Acquisition', 'Modeling', 'Training', 'Evaluation']",3
+"['Acquisition', 'Modeling', 'Training']",2
+"['Acquisition', 'Modeling']",2
+"['Acquisition', 'Modeling', 'Evaluation']",2
+"['Acquisition', 'Modeling', 'Prediction']",2
+"['Training', 'Prediction']",2
+"['Acquisition', 'Modeling', 'Training', 'Evaluation', 'Prediction']",2
+"['Modeling', 'Training']",2
+"['Training', 'Evaluation', 'Prediction']",1
+['Training'],1
+"['Acquisition', 'Evaluation', 'Prediction']",1
+"['Modeling', 'Training', 'Prediction']",1
+"['Acquisition', 'Training']",1
