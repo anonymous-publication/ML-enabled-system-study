@@ -24,7 +24,17 @@ phases.
   - **analysis**: Used to generate the results presented in the paper based on filtering and data_processing
 
 
-The results from the paper can be reproduced by running the scripts in the following order:
+
+**Installation**
+  - Required Python version: 3.8
+  - Dependencies can be found in requirements.txt
+  - Suggested installation procedure:
+    - conda create -n ml-systems-study python=3.8
+    - conda activate ml-systems-study
+    - pip install -r requirements.txt
+    - conda develop "path/to/cloned/repository"
+
+**Reproducing the results from the paper:**
   - Obtaining the data from GitHub: Execute scripts/data_acquisition/01_get_dependants.py
   - Filtering the data: Execute the Python scripts in scripts/filtering in the given order, except for the last one (12_filter_experiments.py)
   - Additional processing required for results to RO2: Run scripts/data_processing/commit_stages.py
