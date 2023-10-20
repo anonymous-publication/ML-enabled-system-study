@@ -8,11 +8,13 @@ The contents of each folders are listed below:
 - **2-forks_removed**: List of GitHub projects left after removing forks.
 - **3a-number_commits_queried**: List of projects with their number of commits.
 - **3-number_commits_filtered**: List of projects with commits count >= 50.
-- **4-api-dictionary**: API dictionary mapping libraries calls to ML development phases.
-- **4a-library_calls_filtered**: List of projects with relevant library calls.
-- **5-attributes**: List of projects along with the following attributes: number of contributors, branches, pull requests, tags, number of releases, issues, files, and their ML development phases.
-- **6-experiments**: Results after applying the different heuristics to filter out experiments
+- **4-library_calls_filtered**: List of projects with relevant library calls.
+- **5-attributes**: List of projects along with the following attributes: number of contributors, branches, pull requests, tags, number of releases, issues, files, and their ML development 
+phases.
+- **6-ml_stages**: List of projects with information about how many files related to each ML stage are present
 - **commit_stages**: Information about which ml stage was changed in which commit. Contains one .csv file for each project.
+- **API-dictionary**: API dictionary mapping libraries calls to ML development phases.
+
 
 **scripts**: Python scripts used in this study.
   - **utilities**: Collection of functions required for the scripts
